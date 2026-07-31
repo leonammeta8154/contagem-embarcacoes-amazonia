@@ -99,4 +99,4 @@ O modelo pré-treinado no COCO apresenta baixa acurácia em cenas amazônicas de
 
 ## Autor
 
-Leonam Azevedo, pós-graduando em Inteligência Artificial na UNIFAP (Almeirim, Pará), consultor de sustentabilidade e ESG, com interesse em bioeconomia amazônica.
+Leonam Azevedo, pós-graduando em Inteligência Artificial na UNIFAP – Universidade Federal do Amapá, com interesse em bioeconomia amazônica.
