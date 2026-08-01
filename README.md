@@ -97,6 +97,10 @@ O modelo pré-treinado no COCO apresenta baixa acurácia em cenas amazônicas de
 - Reavaliação da acurácia (MAE e contagens exatas) pós fine-tuning, comparando com o baseline atual
 - Ciclo de active learning: identificar erros recorrentes e priorizar anotação nesses casos
 
+## Imagens Porto de Santana
+
+https://turismoamapa.com.br/ap/santana/59/porto_de_santana
+
 ## Autor
 
 Leonam Azevedo, pós-graduando em Inteligência Artificial na UNIFAP – Universidade Federal do Amapá, com interesse em bioeconomia amazônica.
